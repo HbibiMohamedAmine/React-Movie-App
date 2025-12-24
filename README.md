@@ -3,7 +3,8 @@
 A simple movie management application built with React.
 
 ## 📸 Preview
-![Movie App Preview](screenshots/movie-preview.png)
+![Movie App Preview](Screenshot1.png)
+![Movie App Preview](Screenshot2.png)
 
 ## 🚀 Features
 - Display movies as cards
